@@ -4,7 +4,7 @@
   stellar feedback processes, chemo-dynamical evolution of the interstellar medium, dark matter 
 - 🌱 I’m currently learning C, C#, C++, CUDA, Python
 - 💞️ I’m looking to collaborate on Hydrodynamical Simulation Codes
-- 📫 How to reach me: matthias.kuehtreiber@univie.ac.at
+- 📫 How to reach me: matthias.kuehtreiber@univie.ac.at; mkuehtreiber97@gmail.com
 
 <!---
 silvanordica/silvanordica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
